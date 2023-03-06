@@ -1,0 +1,50 @@
+>>> sum_odd_divisors(45) 
+78
+>>> sum_odd_divisors(7) 
+8
+>>> sum_odd_divisors(2) 
+Enter a non-negative integer: 0
+1000
+>>> sum_odd_divisors() 
+Enter a non-negative integer: 32
+1001.614167262828
+>>> pell(16)
+470832
+>>> pell(-11) 
+>>> countMembers("3d25662dfg")
+8
+>>> countMembers("\!") 
+2
+>>> casual_number("7636882")
+7636882
+>>> casual_number("89, TTT, UUU, 33")
+>>> alienNumbers("UUyN!") 
+727
+>>> alienNumbers("!!")
+242
+>>> alienNumbersAgain("a!ya!U!NaU") 
+1095
+>>> alienNumbersAgain("")
+0 
+>>>> encrypt("uOttawa engineering") 
+gunOitrteaewnai ge
+>>>> encrypt("This is a message") 
+eTghaisss eims
+>>> weaveop("6838373")
+6838373 
+>>> weaveop("aGfboU22")
+aoPGOpfopbopooPU22
+>>> squarefree("gnytotobdbdhf")
+False
+>>> squarefree("repetition") 
+True
+ 
+
+
+
+
+
+
+ 
+
+ 

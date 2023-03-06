@@ -1,0 +1,15 @@
+>>> is_up_monotone("154152","2") 
+12, 41, 52
+True
+>>> is_up_monotone("154152","3") 
+154, 152
+False
+>>> is_up_monotone("8892","2")
+88, 92
+True
+>>> is_up_monotone("445566","3")
+445, 556
+True
+>>> is_up_monotone("996362","2")   
+996, 362
+False

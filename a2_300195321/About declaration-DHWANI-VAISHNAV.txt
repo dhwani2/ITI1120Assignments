@@ -1,0 +1,45 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf610
+{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red89\green138\blue67;\red23\green23\blue23;
+\red202\green202\blue202;\red167\green197\blue152;\red183\green111\blue179;\red212\green214\blue154;\red194\green126\blue101;
+\red202\green202\blue202;\red23\green23\blue23;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c41569\c60000\c33333;\cssrgb\c11765\c11765\c11765;
+\cssrgb\c83137\c83137\c83137;\cssrgb\c70980\c80784\c65882;\cssrgb\c77255\c52549\c75294;\cssrgb\c86275\c86275\c66667;\cssrgb\c80784\c56863\c47059;
+\cssrgb\c83137\c83137\c83137;\cssrgb\c11765\c11765\c11765;}
+\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\sl300\sa240\partightenfactor0
+
+\f0\fs26\fsmilli13333 \cf2 \expnd0\expndtw0\kerning0
+Declaration Dhwani Vaishnav HW2\
+\
+1) 
+\f1\fs24 \cf3 \cb4 \outl0\strokewidth0 \strokec3 # call the function with values\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf5 \cb4 min_enclosing_rectangle(\cf6 \strokec6 1\cf5 \strokec5 , \cf6 \strokec6 1\cf5 \strokec5 , \cf6 \strokec6 1\cf5 \strokec5 )\cb1 \
+\cb4 min_enclosing_rectangle(\cf6 \strokec6 4.5\cf5 \strokec5 , \cf6 \strokec6 10\cf5 \strokec5 , \cf6 \strokec6 2\cf5 \strokec5 )\cb1 \
+\cb4 min_enclosing_rectangle(-\cf6 \strokec6 1\cf5 \strokec5 , \cf6 \strokec6 10\cf5 \strokec5 , \cf6 \strokec6 2\cf5 \strokec5 )\cb1 \
+\cb4 min_enclosing_rectangle(\cf6 \strokec6 500\cf5 \strokec5 , \cf6 \strokec6 1000\cf5 \strokec5 , \cf6 \strokec6 2000\cf5 \strokec5 )\
+It is the code that came on the assignment file. \
+\
+2) \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf3 \strokec3 # make a substring\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf5 \cb4     substring = [votes[i:j] \cf7 \strokec7 for\cf5 \strokec5  i \cf7 \strokec7 in\cf5 \strokec5  \cf8 \strokec8 range\cf5 \strokec5 (\cf8 \strokec8 len\cf5 \strokec5 (votes)) \cf7 \strokec7 for\cf5 \strokec5  j \cf7 \strokec7 in\cf5 \strokec5  \cf8 \strokec8 range\cf5 \strokec5 (i + \cf6 \strokec6 1\cf5 \strokec5 , \cf8 \strokec8 len\cf5 \strokec5 (votes) + \cf6 \strokec6 1\cf5 \strokec5 )] \
+Stack Overflow\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf3 \cb4 \strokec3 # call the function with values\cf5 \cb1 \strokec5 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf8 \cb4 \strokec8 print\cf5 \strokec5 (vote_percentage(\cf9 \strokec9 "yes yes yes yes yes abstained yes yes yes yes"\cf5 \strokec5 ))\cb1 \
+\cf8 \cb4 \strokec8 print\cf5 \strokec5 (vote_percentage(\cf9 \strokec9 'yes,yes, no, yes, no, yes, abstained, yes, yes, no'\cf5 \strokec5 ))\cb1 \
+\cf8 \cb4 \strokec8 print\cf5 \strokec5 (vote_percentage(\cf9 \strokec9 'abstained no abstained yes no yes no yes yes yes no'\cf5 \strokec5 ))\cb1 \
+\cf8 \cb4 \strokec8 print\cf5 \strokec5 (vote_percentage(\cf9 \strokec9 'no yes no no no yes yes yes no'\cf5 \strokec5 ))\cb1 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf10 \cb11 \outl0\strokewidth0 It is the code that came on the assignment file. \
+\
+\cf5 \cb1 \outl0\strokewidth0 \strokec5 \
+\pard\pardeftab720\sl360\partightenfactor0
+\cf5 \
+\
+}
